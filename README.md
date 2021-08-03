@@ -1,7 +1,7 @@
-# Neuron-Lisp
-## Neural network library written in Lisp
+# Neuron-Common-Lisp
+## Neural network library written in Common Lisp
 
-Want to train networks in Keras/TensorFlow and run them in stand-alone programs? Then this is for you.
+Want to train networks in Keras/TensorFlow and run them in stand-alone Lisp programs? Then this is for you.
 
 ## Requirements
 ### Steel Bank Common Lisp
@@ -30,12 +30,12 @@ cl-blapack stands for Common Lisp Basic Linear Algebra Package.
 If this code was helpful for your research, please consider citing this repository.
 
 ```
-@misc{neuron_lisp_2020,
-  title={Neuron-Lisp},
+@misc{neuron_common_lisp_2020,
+  title={Neuron-Common-Lisp},
   author={Eric C. Joyce},
   year={2020},
   publisher={Github},
   journal={GitHub repository},
-  howpublished={\url{https://github.com/EricCJoyce/Neuron-LISP}}
+  howpublished={\url{https://github.com/EricCJoyce/Neuron-Common-Lisp}}
 }
 ```
